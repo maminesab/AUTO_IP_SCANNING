@@ -35,7 +35,7 @@ This script is particularly useful in scenarios where there is a need to deal wi
 
 ## Screenshots
 
-![Screenshot](/succesful_run.png)
+![Screenshot](./succesful_run.png)
 
 ## License
 
